@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gek:home|Door43 (gek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gek|d43-gek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gek/archive/master.zip|d43-gek.zip]]
+
+**Recent Changes**
+{{changes>ns = gek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gek|Ethnologue data]]
+
